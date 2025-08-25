@@ -11,5 +11,4 @@ It reads the contents of a file, modifies the text, and writes the results into 
 
 ## ▶️ Usage
 1. Run the script:
-   ```bash
-   python file_read_write.py
+   
